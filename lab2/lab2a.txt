@@ -1,0 +1,9 @@
+int size: 		4
+short size: 		2
+long size: 		8
+long long size: 	8
+unsigned int size: 	4
+char size: 		1
+float size: 		4
+double size: 		8
+long double size: 	16
