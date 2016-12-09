@@ -1,0 +1,1 @@
+cmd_/afs/pitt.edu/home/j/r/jrh160/private/cs449/project5/e_driver.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /afs/pitt.edu/home/j/r/jrh160/private/cs449/project5/e_driver.ko /afs/pitt.edu/home/j/r/jrh160/private/cs449/project5/e_driver.o /afs/pitt.edu/home/j/r/jrh160/private/cs449/project5/e_driver.mod.o

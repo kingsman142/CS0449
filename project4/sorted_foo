@@ -1,0 +1,12 @@
+drwxr-xr-x 2 jrh160 UNKNOWN1  2048 Nov 18 15:06 next
+-rw-r--r-- 1 jrh160 UNKNOWN1     0 Nov 28 22:05 sorted_text
+-rw-r--r-- 1 jrh160 UNKNOWN1     0 Nov 29 09:06 foo
+-rw-r--r-- 1 jrh160 UNKNOWN1  1142 Nov 28 22:05 sorted_foo
+-rw-r--r-- 1 jrh160 UNKNOWN1  1356 Nov 19 01:45 jrh160-project4.tar.gz
+-rw-r--r-- 1 jrh160 UNKNOWN1  1421 Nov 27 17:24 jrh160-project4-version2.tar.gz
+-rw-r--r-- 1 jrh160 UNKNOWN1  1445 Nov 28 12:07 jrh160-project4-version3.tar.gz
+-rw-r--r-- 1 jrh160 UNKNOWN1  1470 Nov 28 22:08 jrh160-project4-version4.tar.gz
+-rw-r--r-- 1 jrh160 UNKNOWN1  3867 Nov 28 22:07 myshell.c
+-rw-r--r-- 1 jrh160 UNKNOWN1    78 Nov 18 23:48 test
+-rwxr-xr-x 1 jrh160 UNKNOWN1 10041 Nov 28 22:05 myshell
+total 27
